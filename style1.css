@@ -1,0 +1,45 @@
+
+h1 {
+    color: purple;
+    font-family: Georgia;
+    
+} 
+
+.definition {
+    font-size:small;
+}  
+
+.org {
+    font-style:italic;
+}
+
+.pest {
+    font-weight:bold;
+}
+
+a {
+    text-decoration: none;
+  }
+
+a:hover {
+    color:pink;
+    text-decoration: underline;
+  }
+
+  img {
+      float:right;
+      margin: 20px;
+      border: 3px solid green;
+    }
+
+.vse {
+    border-style: outset;
+    width:1000px;
+    padding: 10px;
+}
+
+    body {
+        background: linear-gradient(to top left, powderblue, pink);
+    }
+    
+
